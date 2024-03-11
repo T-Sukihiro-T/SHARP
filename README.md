@@ -1,0 +1,7 @@
+During the summer of 2022, I created a program under Dr. Hui Deng in collaboration between UofM SHARP (Under the School of Engineering) and the University of Michigan Department of Physics within the Deng Research Lab, where I wrote a python script that could automatically plot lines of best fit in a spectrum graph.
+
+Over a 6-week timeline, I managed project advancement and guided colleagues in program development by effectively illustrating novel concepts and procedures. The Implementation of our program included various Python libraries, including NumPy and Matplotlib, that integrated well with the Spyder IDE that we used, resulting in expanded capabilities in MATLAB.
+
+The process involved the collaboration of my co-researcher, 5 Graduate Students, and Professor Deng to identify and rectify topic and programming errors, fostering improved team communication and refining project architecture. And to keep a clear work environment, we utilized a collaborative Git Repository (via GitHub) for efficient code transmission to graduate students during remote work, and adeptly managed the storage of modified Python files. 
+
+Presented the work at a symposium to Computer Science professors and graduate students, articulating its efficacy and outlining future applications after 2 months of development. This projects outcome ended with significantly improved lab efficiency, empowering Deng Researchers to autonomously generate laser data plots and perform essential adjustments for what has now been 1.5 years.
